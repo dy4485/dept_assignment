@@ -11,7 +11,7 @@ The goal was to replicate the desktop layout and implement a mobile-first respon
 - Static / mock data
 
 ## ▶️ How to Run the Project
-
+```
 npm install
 npm run dev
 
